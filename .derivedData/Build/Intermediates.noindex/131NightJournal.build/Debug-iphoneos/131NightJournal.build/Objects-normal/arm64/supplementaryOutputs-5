@@ -1,0 +1,23 @@
+{
+  "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/131NightJournal/ViewModels/NightJournalViewModel.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/NightJournalViewModel.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/NightJournalViewModel.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/NightJournalViewModel.dia",
+    "object" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/NightJournalViewModel.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/NightJournalViewModel.swiftdeps"
+  },
+  "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/131NightJournal/Views/Calendar/CalendarView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/CalendarView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/CalendarView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/CalendarView.dia",
+    "object" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/CalendarView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/CalendarView.swiftdeps"
+  },
+  "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/131NightJournal/Views/Entry/AddEntryView.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/AddEntryView.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/AddEntryView.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/AddEntryView.dia",
+    "object" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/AddEntryView.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/AddEntryView.swiftdeps"
+  }
+}

@@ -13,7 +13,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        let tabBar = UITabBarAppearance()
+        tabBar.configureWithOpaqueBackground()
+        tabBar.backgroundColor = UIColor(red: 0.059, green: 0.075, blue: 0.157, alpha: 1)
+        tabBar.shadowColor = UIColor.black.withAlphaComponent(0.35)
+        UITabBar.appearance().standardAppearance = tabBar
+        UITabBar.appearance().scrollEdgeAppearance = tabBar
+        UITabBar.appearance().tintColor = UIColor(red: 0.008, green: 0.467, blue: 0.859, alpha: 1)
+        UITabBar.appearance().unselectedItemTintColor = UIColor.white.withAlphaComponent(0.45)
         return true
     }
 

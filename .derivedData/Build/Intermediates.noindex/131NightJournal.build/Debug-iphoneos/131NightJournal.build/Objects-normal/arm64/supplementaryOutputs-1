@@ -1,0 +1,30 @@
+{
+  "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/131NightJournal/Components/CalendarDayCell.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/CalendarDayCell.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/CalendarDayCell.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/CalendarDayCell.dia",
+    "object" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/CalendarDayCell.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/CalendarDayCell.swiftdeps"
+  },
+  "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/131NightJournal/Components/EntryCard.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/EntryCard.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/EntryCard.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/EntryCard.dia",
+    "object" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/EntryCard.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/EntryCard.swiftdeps"
+  },
+  "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/131NightJournal/Components/MiniEntryCard.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/MiniEntryCard.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/MiniEntryCard.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/MiniEntryCard.dia",
+    "object" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/MiniEntryCard.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/MiniEntryCard.swiftdeps"
+  },
+  "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/131NightJournal/Components/StatCard.swift" : {
+    "const-values" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/StatCard.swiftconstvalues",
+    "dependencies" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/StatCard.d",
+    "diagnostics" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/StatCard.dia",
+    "object" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/StatCard.o",
+    "swift-dependencies" : "/Users/roman/Documents/XcodeProgramm/9 comand Ярослав/131NightJournal/.derivedData/Build/Intermediates.noindex/131NightJournal.build/Debug-iphoneos/131NightJournal.build/Objects-normal/arm64/StatCard.swiftdeps"
+  }
+}

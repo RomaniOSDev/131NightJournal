@@ -1,0 +1,6 @@
+framework module Pods_131NightJournal {
+  umbrella header "Pods-131NightJournal-umbrella.h"
+
+  export *
+  module * { export * }
+}
